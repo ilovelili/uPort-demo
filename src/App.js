@@ -40,7 +40,7 @@ class App extends Component {
 			<div className="App">
 				<nav className="navbar pure-menu pure-menu-horizontal">
 					<Link to="/" className="pure-menu-heading pure-menu-link">
-						uPort Demo
+						Persol uPort Demo
 					</Link>
 					<ul className="pure-menu-list navbar-right">
 						<OnlyGuestLinks />
